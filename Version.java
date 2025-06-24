@@ -3,9 +3,9 @@ public class Version{
 public static void main(String[] args) {
     String nombre = "Jordy";
 
-    int a = 5; 
+    int a = 10; 
 
-    int b = 3; 
+    int b = 4; 
 
     int suma = a + b; 
 
