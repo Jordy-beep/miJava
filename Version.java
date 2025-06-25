@@ -17,6 +17,9 @@ double div =  a / b;
     System.out.println("La suma de " + a + " y " + b +  "es: " + suma);
     System.out.println("La multiplicacion es: " + mult);
     System.out.println("Divison: " + div);
+
+    System.out.println("Nombre: Jordy Joel Joaquin Garcia");
+    System.out.println("Carnet: 2025-7772U");
 }
 
 
