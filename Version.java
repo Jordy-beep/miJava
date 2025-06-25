@@ -20,6 +20,8 @@ double div =  a / b;
 
     System.out.println("Nombre: Jordy Joel Joaquin Garcia");
     System.out.println("Carnet: 2025-7772U");
+
+    System.out.println("Adios Profe");
 }
 
 
